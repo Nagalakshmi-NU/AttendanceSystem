@@ -106,8 +106,8 @@ To run this project, you will need to add the following environment variables to
 
 ## 👤 Author
 
-*Name:* [ Nagalakshmi N U ]  
-*College Name:* [ Adichunchanagiri institute of technology,chikkamagaluru-577102 ]  
-*Contact Number:* [ 7483902686 ]
+*Name:*  Nagalakshmi N U   
+*College Name:*  Adichunchanagiri institute of technology,chikkamagaluru-577102   
+*Contact Number:* 7483902686 
 
 ---
